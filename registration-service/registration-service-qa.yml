@@ -3,5 +3,4 @@ registration-service.maximum=222
 
 spring:
   profiles:
-    active:
-    - qa
+    active: qa

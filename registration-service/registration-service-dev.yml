@@ -3,5 +3,4 @@ registration-service.maximum=1111
 
 spring:
   profiles:
-    active:
-    - dev
+    active: dev
