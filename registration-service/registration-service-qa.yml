@@ -1,6 +1,3 @@
-registration-service.minimum=2
-registration-service.maximum=222
-
-spring:
-  profiles:
-    active: qa
+registration-service:
+-minimum: 2
+-maximum: 2222

@@ -1,6 +1,3 @@
-registration-service.minimum=3
-registration-service.maximum=333
-
-spring:
-  profiles:
-    active: prod
+registration-service:
+-minimum: 3
+-maximum: 3333
