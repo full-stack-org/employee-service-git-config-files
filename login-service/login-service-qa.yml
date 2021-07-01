@@ -1,1 +1,2 @@
-message:Hello Staging
+login-service:
+  message:Hello QA Region
