@@ -1,3 +1,3 @@
 login-service:
   message: Hello Development
-  endpoint: http://localhost/8082
+  endpoint: http://localhost:8082
