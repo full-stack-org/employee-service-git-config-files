@@ -1,3 +1,3 @@
 login-service:
-  message:Hello QA Region
+  message: Hello QA Region
   endpoint: http://localhost/8082
