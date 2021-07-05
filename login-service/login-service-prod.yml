@@ -1,2 +1,3 @@
 login-service:
   message:Hello Production
+  endpoint: http://localhost/8082
